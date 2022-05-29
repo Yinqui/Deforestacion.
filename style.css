@@ -1,0 +1,44 @@
+body {
+  display: flex;
+flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background:#dce4f4
+  
+}
+
+.titulo{
+  max-width:80%;
+  border:solid;
+color: #000000;
+   background-color: #a3b4db
+}
+
+.titulo h1 {
+   margin: 0
+}
+
+.titulo h4 {
+   margin: 0
+}
+.verde {
+  display: flex;
+  flex-direction:column;
+  max-width:80%;
+  border-style: solid;
+   border-color: green;,
+}
+
+.azul h4 {
+  color: #6257f2;
+}
+img {
+  border: 4px solid;
+    border-color: #008000;
+  width: 400px;
+  height: auto;
+}
+
+button{
+background-color:#97e797;
+}
